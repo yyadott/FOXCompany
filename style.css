@@ -2967,7 +2967,7 @@ Version:1.0
 }
 .shopping-summery tbody tr img {
   border-radius: 0;
-  width: 80px;
+  width: 150px;
   height: 80px;
 }
 .shopping-summery tbody tr:last-child {
@@ -3187,7 +3187,8 @@ Version:1.0
   height: 46px;
   line-height: 18px;
   font-size: 13px;
-  color: #fff;
+  border: 2px #006eff solid;
+  color: black;
 }
 /*======================================
    End Shopping Cart CSS
@@ -4764,7 +4765,7 @@ Version:1.0
 }
 .contact-us .form .button .btn {
   height: 50px;
-  border: none;
+  border: 2px #006eff solid;
 }
 #myMap {
   height: 500px;
