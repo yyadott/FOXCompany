@@ -1230,7 +1230,7 @@ Version:1.0
 }
 .hero-slider .single-slider {
   height: auto;
-  background-image: url("images/SHOP BANNER2.png");
+  background-image: url("images/2.png");
   background-size: cover;
   background-position: top center;
   background-repeat: no-repeat;
@@ -1253,12 +1253,12 @@ Version:1.0
   font-size: 20px;
   display: block;
   margin-bottom: 12px;
-  color: #fff;
+  color: black;
   font-weight: 700;
   line-height: initial;
 }
 .hero-slider .hero-text p {
-  color: white;
+  color: black;
   margin-bottom: 35px;
 }
 .hero-slider .hero-text .button {
@@ -1558,6 +1558,7 @@ Version:1.0
 .small-banner .single-banner img {
   height: 450px;
   width: 450px;
+  margin-left: 35px;
   -webkit-transition: all 0.4s ease;
   -moz-transition: all 0.4s ease;
   transition: all 0.4s ease;
