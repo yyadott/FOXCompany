@@ -132,6 +132,7 @@ Version:1.0
     margin-top: 80px;
   }
   .hero-slider .hero-text h1 {
+    line-height: 30px;
     font-size: 35px;
     margin-bottom: 5px;
   }
@@ -531,15 +532,18 @@ Version:1.0
     margin-top: 60px;
   }
   .hero-slider .hero-text h1 {
+    line-height: 30px;
     font-size: 30px;
     margin-bottom: 0px;
+    margin-top: 7px;
   }
   .hero-slider .hero-text h1 span {
     font-size: 15px;
     margin-bottom: 0;
   }
   .hero-slider .hero-text p {
-    color: #333;
+    margin-top: 20px;
+    color: black;
     margin-bottom: 28px;
   }
   .hero-slider .hero-text .btn {
@@ -1267,15 +1271,18 @@ Version:1.0
     margin-top: 60px;
   }
   .hero-slider .hero-text h1 {
+    line-height: 30px;
     font-size: 30px;
     margin-bottom: 0px;
+    margin-top: 7px;
   }
   .hero-slider .hero-text h1 span {
     font-size: 15px;
     margin-bottom: 0;
   }
   .hero-slider .hero-text p {
-    color: #333;
+    margin-top: 20px;
+    color: black;
     margin-bottom: 28px;
   }
   .hero-slider .hero-text .btn {
